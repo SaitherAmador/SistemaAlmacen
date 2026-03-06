@@ -3,6 +3,7 @@
 Almacen almacen = new Almacen();
 bool salir = false;
 
+// Menú principal con validación de opciones y manejo del flujo
 while (!salir)
 {
     Console.Clear();
